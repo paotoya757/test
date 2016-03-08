@@ -22,7 +22,7 @@ var conferenceApp = angular
     $routeProvider
 
       .when('/conferences-home', {
-        templateUrl: 'vistas/conferences-home.html',
+        templateUrl: 'v/conferences-home.html',
         controller: 'ConferencesHomeCtrl',
         controllerAs: 'conferencesHome'
       })
