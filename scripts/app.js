@@ -20,9 +20,9 @@ var conferenceApp = angular
   ])
   .config(function ($routeProvider) {
     $routeProvider
-
+    	// CMABIONS RAMA>....
       .when('/conferences-home', {
-        templateUrl: 'v/conferences-home.html',
+        templateUrl: 'vifieieieie/conferences-home.html',
         controller: 'ConferencesHomeCtrl',
         controllerAs: 'conferencesHome'
       })
